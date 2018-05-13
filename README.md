@@ -14,7 +14,7 @@ Download and install instructions can be found at: http://eigen.tuxfamily.org.
 **C++11 or C++0x Compiler**  
 We use the some functionalities of C++11.  
 
-## Compile and Run
+## Build and Run
 ```
 cd XX/XX(include eigenMatrix.cpp and CMakeLists.txt)  
 mkdir build  
