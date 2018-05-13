@@ -1,5 +1,5 @@
 # Eigen_MatrixSolution_QR_Cholesky
-This is a small demo to learn Eigen library
+This is a small demo to learn Eigen library for QR,Cholesky and decomposition dynamic size matrix
 
 ## Problem Description
 Let the linear equation Ax = b, under the premise that A is a square matrix.When A is a 100 × 100 random matrix, use QR and Cholesky decomposition to find the x  
