@@ -8,10 +8,6 @@ using namespace std;
 
 #define MATRIX_SIZE 100
 
-/****************************
-* 本程序演示了 Eigen 基本类型的使用
-****************************/
-
 int main( int argc, char** argv )
 {
     //动态矩阵
